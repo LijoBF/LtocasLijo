@@ -4,6 +4,6 @@ public class Data {
 	public static void main(String[] args) {
 		System.out.println("LtoCas Lijo.......");
 		System.out.println("i am aruna");
-		System.out.println("new change");
+		System.out.println("LtoCas.......");
 	}
 }
