@@ -6,7 +6,7 @@ public class Data {
 		System.out.println("i am aruna");
 		System.out.println("LtoCas....... hello");   
 		System.out.println("LtoCas....... server");  
-		System.out.println("LtoCas....... server");  
+		System.out.println("LtoCas..to.... server");  
 
 
 	}
